@@ -980,6 +980,7 @@ icons:
       - stop
       - abort
       - cancel
+      - prohibit
     categories:
       - Web Application Icons
 
